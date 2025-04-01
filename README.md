@@ -1,2 +1,2 @@
 # Get_Course
-for DEVOPS
+For DEVOPS
